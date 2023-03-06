@@ -1,2 +1,2 @@
-# Automotive_Engineering_Models
-ICE and EV Vehicle Simulations Using MATLAB/Simulink
+# ICE Vehicle Longitudinal Dynamics Using MATLAB/Simulink
+
